@@ -1,0 +1,1314 @@
+body {
+    background-color: black;
+  }
+  
+  /* .img img{
+        width: 120px;
+        height: 100px;
+       
+  
+  body {
+    background-color: black;
+  }
+  
+  /* .img img{
+        width: 120px;
+        height: 100px;
+       
+    }
+    .img{
+      margin-bottom: 100px;
+      margin-left: 30px;
+      
+    } */
+  
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+  
+  
+  * {
+    font-family: 'Roboto', sans-serif;
+    ;
+  }
+  
+  
+  .front {
+    background-image: url(/image/netflixbg.jpg);
+    height: 100vh;
+    width: 100%;
+  
+  }
+  
+  .movie {
+    color: #f0f8ff;
+    width: 30%;
+    gap: 20px;
+    padding: 20px;
+    font-weight: 900px;
+    font-size: x-large;
+    justify-content: center;
+    box-sizing: border-box;
+    /* padding-right: 20px; */
+    /* border: 3px solid black; */
+    /* text-align: end; */
+    display: flex;
+    align-items: flex-end;
+    /* margin: 0; */
+    margin-right: 3rem;
+    margin-bottom: 0.6rem;
+  
+  }
+  
+  
+  .english {
+    padding: 5px;
+    font-size: 12px;
+    color: #f0f8ff;
+    /* margin-right: 15%; */
+  }
+  
+  .english select {
+    padding: 5px 5px 8px 20px;
+    background-color: transparent;
+    color: #f0f8ff;
+    /* outline: none; */
+    border: 0.9px solid white;
+    margin-left: 6.5rem;
+  
+  
+  }
+  
+  option {
+    background-color: grey;
+    color: #f0f8ff;
+  }
+  
+  
+  .addu {
+    background-color: red;
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: 5px;
+    height: 33px;
+    width: 80px;
+    border: 3px red;
+    margin-bottom: 3px;
+    border-radius: 3px;
+  
+  
+    /* margin-right: 40%; */
+  }
+  
+  .movie i {
+    font-size: 10px;
+    transform: translate(127px, -2px);
+    margin-top: 2rem;
+  
+  }
+  
+  
+  .adnan {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+  
+  }
+  
+  .para {
+    font-weight: 800px;
+    font-size:32px;
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+    margin-top: 6%;
+  
+  
+  
+  }
+  
+  .list {
+    color: aliceblue;
+    text-align: center;
+    width: 95%;
+    font-size: 25px;
+    /* font-weight: 10px; */
+    margin-right: 40px;
+    margin-top: -20px;
+  
+  }
+  
+  .menu {
+    text-align: center;
+    color: aliceblue;
+    font-size: 19px;
+  
+  
+  }
+  
+  .gmail {
+    display: flex;
+    justify-content: center;
+    /* margin-left: 235px; */
+    /* text-align: center; */
+  
+  }
+  
+  input {
+    padding: 20px 220px 13px 10px;
+    outline: none;
+    border-radius: 3px;
+  }
+  
+  .get {
+    font-size: x-large;
+    font-weight: 900px;
+    background-color: red;
+    color: aliceblue;
+    padding: 15px 30px 13px 15px;
+    /* border-radius: 3px; */
+  
+  }
+  
+  .new {
+    border: 4px solid rgba(27, 27, 27, 0.623);
+  }
+  
+  .detail {
+    color: aliceblue;
+    font-size: x-large;
+    width: 50%;
+  
+  
+  }
+  
+  .section {
+    display: flex;
+    /* padding: 10px 40px 30px 10px; */
+  }
+  
+  .detail h1 {
+    font-size: 3.125rem;
+    padding-left: 70px;
+    margin-top: 90px;
+  }
+  
+  .detail .words {
+    width: 90%;
+    font-size: 1.625rem;
+    font-weight: 600px;
+    /* padding: 10px 60px 50px 20px;  */
+    /* margin-left: -30px; */
+    padding-left: 65px;
+    margin-bottom: 100px;
+  
+  
+  }
+  
+  /* .detail h1{
+      margin-right:10px; */
+  
+  .tv img {
+    margin-top: 91px;
+    margin-left: 124px;
+  }
+  
+  
+  .new1 {
+    border: 4px solid rgba(27, 27, 27, 0.623);
+  
+  }
+  
+  .join {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .netflix {
+    margin-left: 10rem;
+    box-sizing: border-box;
+  
+  }
+  
+  .fonts {
+    /* font-size: 60px; */
+    font-size: 3.125rem;
+    color: aliceblue;
+    /* padding: 0px 50px 40px 230px; */
+    padding: 40px 93px 10px;
+    /* text-align: center; */
+    /* align-items: center; */
+    margin-left: 60px;
+    margin-top: 0rem;
+  }
+  
+  .fonts p {
+    margin: 0;
+    /* width: 90%; */
+    /* margin-right: 6rem; */
+  }
+  
+  .letter {
+    color: aliceblue;
+    /* font-size: large; */
+    font-size: 1.625rem;
+    font-weight: 400;
+    font-weight: 80px;
+    margin-top: 1rem;
+  
+  }
+  
+  .new2 {
+    border: 4px solid rgba(27, 27, 27, 0.623);
+  }
+  
+  .video {
+    font-size: 3.125rem;
+    color: aliceblue;
+    margin-left: 5rem;
+    margin-bottom: 2rem;
+  
+  
+  
+  }
+  
+  .video p {
+    margin: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .combine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  
+  }
+  
+  .about {
+    width: 80%;
+    color: aliceblue;
+    font-size: 1.625rem;
+    font-weight: 1rem;
+  }
+  
+  .picture {
+    margin-right: 7.55rem;
+  
+  }
+  
+  .new3 {
+    border: 4px solid rgba(27, 27, 27, 0.623);
+  }
+  
+  .connect {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .emoji {
+    margin-left: 6rem;
+  }
+  
+  .emoji img {
+    width: 350px;
+    height: 400px;
+  }
+  
+  .profile {
+    color: aliceblue;
+    font-size: 3.125rem;
+    margin-top: 3rem;
+    margin: auto;
+    /* margin-top: 8rem;
+    margin-left: 3rem; */
+  
+  }
+  
+  .profile p {
+    font-size: 1.625rem;
+    font-weight: 1rem;
+    margin-right: 5rem;
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+  }
+  
+  #p {
+    font-size: 3.125rem;
+  
+  
+  }
+  
+  .new4 {
+    border: 4px solid rgba(27, 27, 27, 0.623);
+  }
+  
+  .question {
+    color: aliceblue;
+    text-align: center;
+    font-size: 2.2rem;
+    margin-top: 2.5rem;
+  
+  }
+  
+  .what {
+    color: #f0f8ff;
+    font-size: 1.3rem;
+    width: 55%;
+    margin-left: 22%;
+    background-color: rgb(70, 69, 69);
+    padding-left: 1.5rem;
+    height: 3.2rem;
+    outline: none;
+    border: none;
+  
+  
+  }
+  
+  .what p {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.9rem;
+    padding-right: 1.4rem;
+  }
+  
+  .menu2 p {
+    text-align: center;
+    color: aliceblue;
+    font-size: 1rem;
+  
+  }
+  
+  /* .flex{
+      width: 100vw;
+    } */
+  
+  .gmail2 {
+    display: flex;
+    margin-left: 23rem;
+  
+  
+  }
+  
+  #input {
+    padding: 20px 220px 13px 10px;
+    outline: none;
+    border-radius: 3px;
+  }
+  
+  .get2 {
+    font-size: x-large;
+    font-weight: 900px;
+    background-color: red;
+    color: aliceblue;
+    padding: 15px 30px 13px 15px;
+    /* border-radius: 3px; */
+  
+  }
+  
+  .new5 {
+    border: 4px solid rgba(27, 27, 27, 0.623);
+  }
+  
+  .last {
+    color: #f0f8ff;
+    font-size: 0.9rem;
+  
+  }
+  
+  .last p {
+    margin-left: 11.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  footer {
+    height: 45vh;
+  }
+  
+  .footer {
+    /* color: rgb(107, 103, 103); */
+    font-size: 0.9rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+  
+  }
+  
+  
+  .footer p {
+    margin-bottom: 1.7rem;
+  
+  
+  }
+  
+  
+  .one {
+    list-style: none;
+    /* font-size: 0.7rem; */
+  }
+  
+  .one li {
+    padding-bottom: 0.8rem;
+  }
+  
+  .two {
+    list-style: none;
+    /* font-size: 0.7rem; */
+  }
+  
+  .two li {
+    padding-bottom: 0.8rem;
+  }
+  
+  .three {
+    list-style: none;
+    /* font-size: 0.7rem; */
+  }
+  
+  .three li {
+    padding-bottom: 0.8rem;
+  }
+  
+  .four {
+    list-style: none;
+    /* font-size: 0.7rem; */
+  }
+  
+  .four li {
+    padding-bottom: 0.8rem;
+  }
+  
+  /* ..english {
+      padding: 5px;
+      font-size: 12px;
+      /* margin-right: 15%; */
+  .english2 {
+    padding: 5px;
+    font-size: 12px;
+  
+    margin-left: -3rem;
+  }
+  
+  .english2 select {
+    padding: 5px 5px 8px 20px;
+    background-color: transparent;
+    color: white;
+    /* outline: none; */
+    border: 0.9px solid white;
+    margin-left: 10rem;
+  }
+  
+  .movie3 i {
+    font-size: 10px;
+    transform: translate(185px, -2px);
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+    color: #f0f8ff;
+  }
+  
+  @media screen and (max-width:1100px) {
+    .gmail2 {
+      display: flex;
+      margin-left: 23%;
+    }
+  
+    .movie i {
+      font-size: 10px;
+      transform: translate(115px, 21px);
+  
+      font-size: 10px;
+      margin-top: 2rem;
+    }
+  
+    .addu {
+      font-size: 12px;
+    }
+  }
+  
+  @media screen and (max-width:1070px) {
+    .para {
+      font-size: 3.125rem;
+    }
+  
+    .movie i {
+      font-size: 10px;
+      transform: translate(127px, -1px);
+  
+      font-size: 10px;
+      margin-top: 2rem;
+    }
+  
+  
+    .movie {
+      width: 37%;
+    }
+  
+    .detail .words {
+  
+      padding-left: 22px;
+    }
+  
+    .detail p {
+      padding-left: 26px;
+      font-size: 24px;
+  
+    }
+  
+    .detail h1 {
+      font-size: 48px;
+      padding-left: 24px;
+    }
+  
+    .tv img {
+      margin-top: 81px;
+      margin-left: 56px;
+    }
+  
+    .netflix {
+      margin-left: 74px;
+    }
+  
+    .fonts {
+      font-weight: bolder;
+      font-size: 47px;
+      width: 50%;
+      padding: 0px 0px 0px 0px;
+    }
+  
+    /* .letter {
+      font-size: 23px;
+    } */
+    .letter {
+      font-size: 26px;
+    }
+  
+    .video {
+      font-size: 3.2rem;
+      font-weight: bolder;
+    }
+  
+    .about {
+      font-size: 23px;
+    }
+  
+    .about b {
+      font-weight: 400px;
+      /* margin-left: -4rem; */
+    }
+  
+    .picture {
+      margin-right: 1.5rem;
+    }
+  
+    .emoji {
+      margin-left: 3rem;
+      margin-bottom: 2rem;
+      margin-top: 40px;
+    }
+  
+    .profile {
+      /* margin: 0; */
+      /* font-size: 3.0rem;
+      margin-top: 6rem;
+      margin-left: 7rem; */
+    }
+  
+    .profile p {
+      /* font-size: 1.652rem; */
+      margin: auto;
+    }
+  
+    #p {
+      margin: 0;
+      /* font-size: 3.125rem; */
+  
+  
+    }
+  
+    /* .gmail2 {
+      margin-left: 13.2rem;
+    } */
+    .movie3 i {
+      margin-left: 35px;
+    }
+  
+    .last p {
+      margin-left: 8.2rem;
+    }
+  
+    .english2 select {
+      margin-left: 7rem;
+    }
+  
+    .movie3 i {
+  
+      transform: translate(136px, -1px);
+    }
+  
+  }
+  @media screen and (max-width:985px) {
+    .movie{
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+
+  @media screen and (max-width:970px) {
+    .movie{
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+  }
+  @media screen and (max-width:958px) {
+    .movie{
+      padding: 0;
+      margin-bottom: 0.7rem;
+    }
+  }
+}
+  
+  @media screen and (max-width:950px) {
+    .movie i {
+    transform: translate(127px, -1px);
+}
+    .gmail {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    input {
+  
+      width: 25%;
+      margin: auto;
+    }
+  
+    .get {
+      font-size: large;
+      width: 12%;
+      margin: auto;
+      margin-top: 0.5rem;
+      padding: 11px 15px 13px 16px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+  
+    .addu {
+      font-size: 15px;
+    }
+  
+    .movie {
+      width: 38%;
+      padding: 0;
+          margin-bottom: 1.5rem;
+    }
+  
+    .movie i {
+      transform: translate(114px, 21px);
+    }
+     .para{
+          font-size: 3rem;
+        
+     }
+  
+    .gmail2 {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    #input {
+  
+      width: 25%;
+      margin: auto;
+    }
+  
+    .section {
+      flex-direction: column;
+    }
+  
+    .detail {
+      text-align: center;
+      width: 100%;
+      margin-top: -2rem;
+    }
+/*   
+    .detail .words {
+      padding-left: 60px;
+    } */
+  
+    .tv {
+      text-align: center;
+      width: 100%;
+      margin: 0;
+    }
+
+    .tv img{
+      margin: 0;  
+    margin-top: -3rem;
+    }
+
+
+    .netflix{
+        width: 100%;
+        text-align: center;
+        margin: 0;
+
+    }
+     .netflix img{
+        width: 50%;
+        height: auto;
+     }
+    .join {
+      flex-direction: column-reverse;
+      align-items: center;
+  
+    }
+  
+    .netflix {
+      text-align: center;
+      margin-top: 2rem;
+    }
+  
+    .fonts {
+      text-align: center;
+      width: 100%;
+      font-size: 37px;
+      margin-left: 0;
+    }
+  
+    .combine {
+      flex-direction: column;
+    }
+  
+    .video {
+      text-align: center;
+      width: 100%;
+      margin-left: 0;
+    }
+  
+    .picture {
+      /* text-align: center; */
+      margin: auto;
+    }
+  
+    .picture img {
+      width: 450px;
+      margin-right: inherit;
+      margin-left: 5rem;
+      margin: 0;
+    }
+  
+    .about {
+      width: 100%;
+    }
+  
+    .connect {
+      flex-direction: column-reverse;
+    }
+  
+    .emoji {
+      text-align: center;
+      margin-top: -3rem;
+    }
+  
+    .profile {
+      text-align: center;
+      /* width: 100%; */
+    }
+  
+    #p {
+  
+      margin-top: 4rem;
+    }
+  
+    .profile p {
+      margin-bottom: 2.5rem;
+      font-size: x-large;
+  
+    }
+  
+    .emoji img {
+      width: 500px;
+  
+      margin-top: 1.55rem;
+    }
+  
+    input {
+  
+      width: 25%;
+      margin: auto;
+    }
+  
+    .detail h1 {
+      font-size: 45px;
+    }
+  
+    .get2 {
+      font-size: large;
+      width: 12%;
+      margin: auto;
+      margin-top: 0.5rem;
+      padding: 11px 15px 13px 16px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+  
+    input#input {
+      width: 25%;
+      margin-left: 1rem;
+    }
+  
+    span.get2 {
+      margin-left: 10rem;
+      width: 15%;
+    }
+  
+    .last p {
+      margin-left: 4.6rem;
+    }
+  
+    .english2 {
+      margin-left: -14px;
+    }
+  }
+  
+  @media screen and (max-width:900px) {
+    .para {
+  
+      font-size:2.8rem;
+    }
+  
+    .movie i {
+      transform: translate(125px, -1px);
+    }
+    .movie {
+      width: 47%;
+    }
+    .english2 select {
+      margin-left: 2rem;
+  }
+  .movie3 i {
+    transform: translate(56px, 0px);
+  }
+  }
+  
+  @media screen and (max-width:850px){
+    .last p {
+      margin-left: 4.2rem;
+    }
+     .para {
+  
+      font-size:2.6rem;
+    }
+  } 
+  @media screen and (max-width:800px){
+    
+    span.get2 {
+      
+      width: 16%; 
+    }
+    .get {
+      
+      width: 14%;
+    }
+     .para {
+  
+      font-size:2.6rem;
+    }
+  } 
+  @media screen and (max-width:780px){
+    movie i {
+      transform: translate(115px, 20px);
+    }
+    
+    
+    span.get2 {
+      width: 18%;
+    }
+    .english2 select {
+      margin-left: 1rem;
+    }
+    .movie3 i {
+      transform: translate(40px, 0px);
+    }
+     .para {
+  
+      font-size:2.3rem;
+    }
+  }
+  @media screen and (max-width:707px){
+    .movie {
+      width: 50%;
+    }
+    .get {
+      width: 16%;
+    }
+    span.get2 {
+      width: 19%;
+    }
+    .last p {
+      margin-left: 2.2rem;
+    }
+     .para {
+  
+      font-size:2.2rem;
+    }
+  }
+  @media screen and (max-width:678px){
+    .movie {
+    
+      padding:0px
+     
+  
+    }
+  }
+    
+  @media screen and (max-width:667px){
+  .para {
+  
+      font-size:2.1rem;
+    }
+    .list {
+      font-size: 21px;
+    }
+    .movie {
+      width: 53%;
+    }
+    span.get2 {
+      margin-left: 8rem;
+    }
+  }
+  @media screen and (max-width:629px){
+    
+    .para {
+    
+      font-size:2rem;
+    }
+    .movie {
+      width: 56%;
+    }
+  span.get2 {
+    width: 21%;
+  }
+  .get {
+    width: 18%;
+  }
+  .english2 select {
+    margin-left: -1rem;
+  }
+  .movie3 i {
+    transform: translate(7px, 0px);
+  }
+  
+  }
+  
+  @media screen and (max-width:600px){
+    .para {
+      font-size: 1.8rem;
+    font-weight: 900;
+}
+
+    
+  .movie {
+    width: 62%;
+    margin-left: -1.5rem;
+  }
+    .what {
+      
+      width: 73%;
+      margin-left: 12%;
+    }
+    span.get2 {
+      width: 23%;
+    }
+  
+  
+  .img img
+     {
+    
+    width: 90%;
+    }
+    .para {
+      font-size: 1.6rem;
+  }
+    /* .picture img {
+      margin-left: 3rem;
+  } */
+  .movie {
+    width: 68%;
+    
+    margin-left: -2.5rem;
+    
+  }
+  .get {
+    width: 20%;
+  }
+  .gmail2 {
+    display: flex;
+    margin-left: 15%;
+  }
+  .picture img {
+    width: 352px;
+  }
+  .emoji img {
+    width: 430px;
+  }
+  .footer {
+    display: flex;
+    
+    flex-direction: column;
+    
+  }
+  }
+  
+  @media screen and (max-width:600px){
+      picture img {
+          margin-left: 1.5rem;
+        }
+        .fonts p {
+            width: 90%;
+        }
+    .fonts{
+        margin: 0;
+        margin-right: 0rem;
+        
+    }
+    .detail .words {
+        width: 90%;
+        font-size: 1.425rem;
+    }
+    .letter {
+        font-size: 20px;
+    }
+    .addu {
+        font-size: 13px;
+    }
+    .get {
+        width: 21%;
+    }
+    .video{
+        margin: 0;
+    }
+    .picture{
+        margin-top: 2rem;
+    }
+    span.get2 {
+        width: 24%;
+    }
+    .movie {
+        margin-right: 0.7rem;
+        margin-bottom: 2rem;
+    }
+    
+    span.get2 {
+        width: 25%;
+    }
+    .gmail2 {
+        margin-left: 12%;
+    }
+    .get {
+        width: 22%;
+    }
+    .detail .words {
+        font-size: 1.222rem;
+    }
+    /* .fonts p {
+        width: 92%;
+    } */
+    .profile p {
+        font-size: large;
+    }
+}
+  
+
+@media screen and (max-width:569px){
+.fonts {
+  margin-right: 0rem;
+}
+}
+@media screen and (max-width:530px){
+.movie {
+  margin-right: 0.6rem;
+  margin-bottom: 2rem;
+}
+}
+@media screen and (max-width:478px){
+  .movie {
+    margin-right: 0.6777rem;
+    margin-bottom: 3rem;
+  } 
+     .fonts p{
+      margin-left: 1.66rem;
+}
+}
+@media screen and (max-width:477px){
+  .emoji img {
+    width: 80%;
+}
+}
+@media screen and (max-width:475x){
+.emoji img {
+    width: 85%;
+}
+  }
+@media screen and (max-width:470px){
+.emoji img {
+  width: 90%;
+}
+}
+@media screen and (max-width:466px){
+  .emoji img {
+    width: 80%;
+}
+}
+@media screen and (max-width:443px){
+    .img img {
+        width: 100%;
+    }
+    .movie {
+        width: 78%;
+    }
+    .get {
+        width: 23%;
+    }
+    .fonts p {
+        width: 94%;
+    }
+    span.get2 {
+        width: 26%;
+    }
+    .emoji img {
+        width: 85%;
+    }
+    .what {
+        width: 84%;
+        margin-left: 6.5%;
+    }
+}
+@media screen and (max-width:430px){
+  .addu {
+    font-size: 12px;
+}
+  .tv img{
+        width: 80%;
+}
+.get {
+    width: 24%;
+}
+.emoji img {
+    width: 90%;
+}
+.gmail2 {
+    margin-left: 7%;
+}
+span.get2 {
+    width: 27%;
+}
+  }
+@media screen and (max-width:407px){
+  .get {
+    width: 25%;
+}
+.detail h1 {
+  font-size: 43px;
+}
+.emoji img {
+  width: 95%;
+}
+}
+@media screen and (max-width:390px){
+span.get2 {
+  width: 28%;
+}
+input#input {
+  width: 20%;
+}
+}
+
+@media screen and (max-width:395px){
+.get {
+  width: 26%;
+}
+.addu{
+  height: 26px;
+    width: 58px;
+}
+.english select {
+    padding: 2px 5px 3px 8px;
+}
+.movie {
+    margin-bottom: 3rem;
+}
+}
+@media screen and (max-width:385px){
+.what {
+  width: 88%;
+  margin-left: 3.5%;
+}
+
+}
+
+@media screen and (max-width:375px){
+.what {
+  width: 95%;
+  margin-left: -1.5%;
+}
+}
+@media screen and (max-width:377px){
+.get {
+    width: 27%;
+}
+}
+@media screen and (max-width:365px){
+  .get {
+    width: 28%;
+}
+
+@media screen and (max-width:350px){
+.picture img {
+  width: 100%;
+}
+  .fonts p {
+    width: 100%;
+}
+.letter {
+  font-size: 17px;
+}
+.about {
+  font-size: 17px;
+}
+#p {
+  font-size: 2.7rem;
+}
+.profile p {
+  font-size: medium;
+}
+}
+}
+
+@media screen and (max-width:360px){
+.fonts p {
+    margin-left: -0.34rem;
+}
+input#input {
+    width: 9%;
+}
+
+.picture img {
+    width: 100%;
+}
+.get {
+    width: 30%;
+}
+}
+@media screen and (max-width:330px){
+.get {
+    width: 31%;
+}
+}
+@media screen and (max-width:300px){
+.get {
+    width: 33%;
+}
+input {
+    width: 13%;
+}
+}
